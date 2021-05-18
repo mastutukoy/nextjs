@@ -14,3 +14,19 @@ a {
 * {
   box-sizing: border-box;
 }
+
+svg>path{
+  fill:inherit;
+}
+
+.lowercase{
+  text-transform: none!important;
+}
+
+.MuiPaper-rounded{
+  border-radius: 8px !important;
+}
+
+.slide{
+  background: none !important;
+}

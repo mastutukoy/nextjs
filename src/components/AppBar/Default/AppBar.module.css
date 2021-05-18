@@ -1,0 +1,11 @@
+.header{
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+.header > img{
+    height: 25px;
+}
+.whiteText{
+    color: white;
+}
